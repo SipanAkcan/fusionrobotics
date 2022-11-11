@@ -41,7 +41,7 @@ function members(){
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -51,7 +51,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -61,7 +61,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -85,7 +85,7 @@ function members(){
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -95,7 +95,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -105,7 +105,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -130,7 +130,7 @@ function members(){
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -140,7 +140,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -150,7 +150,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -174,7 +174,7 @@ function members(){
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -184,7 +184,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -194,7 +194,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -218,7 +218,7 @@ function members(){
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -228,7 +228,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -238,7 +238,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
+                    <Image variant="top" src={""}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
