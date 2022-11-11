@@ -115,20 +115,19 @@ function members(){
                 </Card>
     </Row>
     </Col>
+
+
     <Col>
          <Col>
             <h1 style={{
                 textAlign: 'center',
-            }}>Members</h1>
+            }}>Software</h1>
         </Col>
     </Col>
 
-
     <Col>
-    <Row>
-        <div style={{
-            width: '12.5%',
-        }}></div>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
                 <Card  border="light" style={{
                     width:270,}}>
                     <Image variant="top" src={b_belediyesi}
@@ -138,16 +137,8 @@ function members(){
                         <Card.Title>Mustafa Tekin</Card.Title>
                         <Card.Text>Lead Mentor</Card.Text>
                     </Card.Body>
-                </Card><Card  border="light" style={{
-                    width:270,}}>
-                    <Image variant="top" src={b_belediyesi}
-                            width={"%100"}
-                            height={"%100"}  />
-                    <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
-                    </Card.Body>
-                </Card><Card  border="light" style={{
+                </Card>
+                <Card  border="light" style={{
                     width:270,}}>
                     <Image variant="top" src={b_belediyesi}
                             width={"%100"}
@@ -157,11 +148,106 @@ function members(){
                         <Card.Text>Lead Mentor</Card.Text>
                     </Card.Body>
                 </Card>
-                
-                
-            </Row>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={b_belediyesi}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Text>Lead Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
     </Col>
 
+    <Col>
+         <Col>
+            <h1 style={{
+                textAlign: 'center',
+            }}>Mechanic</h1>
+        </Col>
+    </Col>
+
+    <Col>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={b_belediyesi}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Text>Lead Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={b_belediyesi}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Text>Lead Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={b_belediyesi}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Text>Lead Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    </Col>
+
+    <Col>
+         <Col>
+            <h1 style={{
+                textAlign: 'center',
+            }}>Public Relations</h1>
+        </Col>
+    </Col>
+
+    <Col>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={b_belediyesi}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Text>Lead Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={b_belediyesi}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Text>Lead Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={b_belediyesi}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Text>Lead Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    </Col>
     </Container>
       <br></br>
     </div>
