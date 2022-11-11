@@ -209,7 +209,7 @@ function members(){
          <Col>
             <h1 style={{
                 textAlign: 'center',
-            }}>Public Relations</h1>
+            }}>Public Relationssss</h1>
         </Col>
     </Col>
 
