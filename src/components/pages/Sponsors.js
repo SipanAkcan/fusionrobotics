@@ -15,27 +15,27 @@ function sponsors(){
     color: "#ffffff",
     }
 
-    const b_belediyesi = require("../../assets/sponsors/bahcelievler_logo.jpg");
-    const knowledge_club = require("../../assets/sponsors/knowledge_club.jpg");
-    const rustu_akin = require("../../assets/sponsors/rüstü_akin_vakfi.png");
-    const unity = require("../../assets/sponsors/unity.png");
-    const r_kadak = require("../../assets/sponsors/r_kadak.png");
-    const altay_civata = require("../../assets/sponsors/altay_civata.png");
-    const eskipolat = require("../../assets/sponsors/eskipolat.png");
+    const b_belediyesi = require("../../assets/sponsors/bahcelievler_logo.jpeg");
+    const knowledge_club = require("../../assets/sponsors/knowledge_club.jpeg");
+    const rustu_akin = require("../../assets/sponsors/rüstü_akin_vakfi.jpeg");
+    const unity = require("../../assets/sponsors/unity.jpeg");
+    const r_kadak = require("../../assets/sponsors/r_kadak.jpeg");
+    const altay_civata = require("../../assets/sponsors/altay_civata.jpeg");
+    const eskipolat = require("../../assets/sponsors/eskipolat.jpeg");
     const demiriz = require("../../assets/sponsors/demiriz.png");
-    const asya_bayrak = require("../../assets/sponsors/asya_bayrak.png");
-    const konzek = require("../../assets/sponsors/konzek.png");
-    const micron_tekstil = require("../../assets/sponsors/micron_tekstil.png");
-    const star_alüminyum = require("../../assets/sponsors/star_alüminyum.png");
+    const asya_bayrak = require("../../assets/sponsors/asya_bayrak.jpeg");
+    const konzek = require("../../assets/sponsors/konzek.jpeg");
+    const micron_tekstil = require("../../assets/sponsors/micron_tekstil.jpeg");
+    const star_alüminyum = require("../../assets/sponsors/star_alüminyum.jpeg");
     const verar_kargo = require("../../assets/sponsors/verar_kargo.jpeg");
-    const özsoy_metal = require("../../assets/sponsors/özsoy_metal.png");
-    const saykom = require("../../assets/sponsors/saykom.png");
-    const ozbekcpa = require("../../assets/sponsors/özbekcpa.png");
-    const özdisan = require("../../assets/sponsors/özdisan.png");
-    const sbk_krom = require("../../assets/sponsors/sbk_krom.png");
-    const dogus_kalip = require("../../assets/sponsors/dogus_kalip.png");
+    const özsoy_metal = require("../../assets/sponsors/özsoy_metal.jpeg");
+    const saykom = require("../../assets/sponsors/saykom.jpeg");
+    const ozbekcpa = require("../../assets/sponsors/özbekcpa.jpeg");
+    const özdisan = require("../../assets/sponsors/özdisan.jpeg");
+    const sbk_krom = require("../../assets/sponsors/sbk_krom.jpeg");
+    const dogus_kalip = require("../../assets/sponsors/dogus_kalip.jpeg");
     const veronelli = require("../../assets/sponsors/veronelli.jpeg");
-    const burger_yiyelim = require("../../assets/sponsors/burger_yiyelim.png");
+    const burger_yiyelim = require("../../assets/sponsors/burger_yiyelim.jpeg");
     const merkad = require("../../assets/sponsors/merkad.png");
     const türksa = require("../../assets/sponsors/türksa_kayış.jpeg");
 
@@ -93,7 +93,6 @@ function sponsors(){
     <Row>
     <Card  border="light" style={{
     width:350,
-    height:280,
 }}>
 <Image variant="top" src={rustu_akin}
                     width={"%100"}
