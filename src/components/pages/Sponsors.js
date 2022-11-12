@@ -27,7 +27,7 @@ function sponsors(){
     const konzek = require("../../assets/sponsors/konzek.png");
     const micron_tekstil = require("../../assets/sponsors/micron_tekstil.png");
     const star_alüminyum = require("../../assets/sponsors/star_alüminyum.png");
-    const verar_kargo = require("../../assets/sponsors/verar_kargo.png");
+    const verar_kargo = require("../../assets/sponsors/verar_kargo.jpeg");
     const özsoy_metal = require("../../assets/sponsors/özsoy_metal.png");
     const saykom = require("../../assets/sponsors/saykom.png");
     const ozbekcpa = require("../../assets/sponsors/özbekcpa.png");
@@ -35,6 +35,10 @@ function sponsors(){
     const sbk_krom = require("../../assets/sponsors/sbk_krom.png");
     const dogus_kalip = require("../../assets/sponsors/dogus_kalip.png");
     const veronelli = require("../../assets/sponsors/veronelli.jpeg");
+    const burger_yiyelim = require("../../assets/sponsors/burger_yiyelim.png");
+    const merkad = require("../../assets/sponsors/merkad.png");
+    const türksa = require("../../assets/sponsors/türksa_kayış.jpeg");
+
     return(
       <div>
     <Container>
@@ -103,13 +107,12 @@ function sponsors(){
 </Card>
 <Card  border="light" style={{
     width:350,
-    height: 220,
 }}>
-<Image variant="top" src={r_kadak}
+<Image variant="top" src={dogus_kalip}
                     width={"%100"}
-                    height={"%100"}  />
+                    height={"%100"} />
 <Card.Body>
-<Card.Title>Rümeysa Kadak</Card.Title>
+<Card.Title>Doğuş Kalıp</Card.Title>
 <Card.Text>
 </Card.Text>
 
@@ -313,14 +316,46 @@ function sponsors(){
 
 </Card.Body>
 </Card>
+
+
 <Card  border="light" style={{
     width:350,
 }}>
-<Image variant="top" src={dogus_kalip}
+<Image variant="top" src={burger_yiyelim}
                     width={"%100"}
-                    height={"%100"} />
+                    height={"%100"}  />
 <Card.Body>
-<Card.Title>Doğuş Kalıp</Card.Title>
+<Card.Title>Burger Yiyelim</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+
+
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={merkad}
+                    width={"%100"}
+                    height={"%100"}  />
+<Card.Body>
+<Card.Title>Merkad Makina</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+    </Row><Row>
+
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={türksa}
+                    width={"%100"}
+                    height={"%100"}  />
+<Card.Body>
+<Card.Title>Türksa Kayış</Card.Title>
 <Card.Text>
 </Card.Text>
 
