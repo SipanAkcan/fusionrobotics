@@ -9,10 +9,11 @@ function projects(){
     const gtys_image = require("../../assets/gtys_logo.jpeg");
     const kirlangic_image = require("../../assets/kırlangic_image.jpeg");
     const teknofest_robot_image = require("../../assets/teknofest_robot.jpeg");
-    const mersin_off_season = require("../../assets/ist_regional.jpeg");
+    const mersin_off_season = require("../../assets/mersin_off_season.jpeg");
     const istanbul_regional_image = require("../../assets/istanbul_regional.png");
     const pendik_off_season_image = require("../../assets/pendik_off_season.png");
     const bosphorus_robot_image = require("../../assets/team_photo3.jpg");
+    const gameX = require("../../assets/gameX.jpg");
     
 
     const jumbotronStyles = {
@@ -170,6 +171,20 @@ function projects(){
           <Card.Title>Mersin - Off Season</Card.Title>
            <Card.Text>
            Our robot almost never worked in the FRC off-season tournament organized by Mersin Governorship, but the experience and experience we gained during and during the competition contributed a lot to us.</Card.Text>
+    
+        </Card.Body>
+      </Card>
+      <Card  border="light" style={{
+                width:350,
+            }}>
+        <Image variant="top" src={gameX}
+                                width={"%100"}
+                                height={250} />
+        <Card.Body>
+          <Card.Title>GameX</Card.Title>
+           <Card.Text>
+           We made it to the semi-finals at the FRC Off-Season at GameX 2019 held in Istanbul and gained a lot of experience
+           </Card.Text>
     
         </Card.Body>
       </Card>
