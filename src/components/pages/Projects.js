@@ -46,7 +46,7 @@ function projects(){
         <Card.Body>
           <Card.Title>Bosphorus Regional</Card.Title>
            <Card.Text>
-           Tamamını bizim yaptığımız ilk robotumuzla sahaya çıkıp  robotumuz maç sırasında arızalansa bile pes etmedik ve takımımıza sonuna kadar destek olduk. </Card.Text>
+           We did not give up and supported our team until the end, even if our robot broke down during the match when we went to the field with our first robot, which we made completely. </Card.Text>
     
         </Card.Body>
       </Card>
@@ -59,7 +59,7 @@ function projects(){
         <Card.Body>
           <Card.Title>Pendik - Off Season</Card.Title>
            <Card.Text>
-           FRC 2022 Pendik Off-Season'da ittifak takımlarımızla birlikte şampiyon takım olduk ve "Winner" ödülünü almaya hak kazandık.
+           We became the champion team together with our alliance teams in FRC 2022 Pendik Off-Season and were entitled to receive the "Winner" award.
            </Card.Text>
     
         </Card.Body>
@@ -87,7 +87,7 @@ function projects(){
         <Card.Body>
           <Card.Title>Görsel Tabanlı Yerleştirme Sistemi</Card.Title>
            <Card.Text>
-           2021 TEKNOFEST'te Eğitim Teknolojileri alanının Ön Değerlendirme Rapor aşamasında 243 takım arasından Türkiye ikincisi olmaya hak kazandık</Card.Text>
+           We came second in Turkey among 243 teams in the Pre-Evaluation Reporting Stage of Education Technologies at 2021 TEKNOFEST.</Card.Text>
     
         </Card.Body>
       </Card>
@@ -113,7 +113,7 @@ function projects(){
         <Card.Body>
           <Card.Title>Teknofest - Kırlangıç</Card.Title>
            <Card.Text>
-           Gaziantep'te düzenlenen TEKNOFEST 2020 yarışmasında finalist takımlardan biri olduk.
+           We became one of the finalist teams in the TEKNOFEST 2020 competition held in Gaziantep.
 </Card.Text>
     
         </Card.Body>
@@ -139,7 +139,7 @@ function projects(){
         <Card.Body>
           <Card.Title>Teknofest</Card.Title>
            <Card.Text>
-           İstanbul'da düzenlenen etkinlikte robotumuzu sergiledik.
+           We exhibited our robot at the event held in Istanbul.
 </Card.Text>
     
         </Card.Body>
@@ -154,8 +154,7 @@ function projects(){
         <Card.Body>
           <Card.Title>İstanbul Regional</Card.Title>
            <Card.Text>
-           2019 yılında gerçekleşen yarışmada 3 gün boyunca yarıştık ve ilk kez katıldığımız bu yarışmada çeyrek finallere kalmayı başardık.
-Yarışmada çok önem verilen iş güvenliği konusunda yaptığımız çalışmalar ve gösterdiğimiz dikkatten dolayı SAFETY AWARD 2019'u almaya hak kazandık.
+           We competed for 3 days in the competition that took place in 2019 and we managed to reach the quarter-finals in this competition, which we participated for the first time. We have been awarded the SAFETY AWARD 2019 for the work we have done and the attention we have shown on occupational safety, which is very important in the competition.
 </Card.Text>
     
         </Card.Body>
@@ -170,7 +169,7 @@ Yarışmada çok önem verilen iş güvenliği konusunda yaptığımız çalış
         <Card.Body>
           <Card.Title>Mersin - Off Season</Card.Title>
            <Card.Text>
-           Mersin Valiliği'nin düzenlemiş olduğu FRC sezon dışı turnuvada robotumuz neredeyse hiç çalışmadı ancak yarışma sürecinde ve yarışma esnasında edindiğimiz tecrübe ve deneyim bize çok şey kattı.</Card.Text>
+           Our robot almost never worked in the FRC off-season tournament organized by Mersin Governorship, but the experience and experience we gained during and during the competition contributed a lot to us.</Card.Text>
     
         </Card.Body>
       </Card>
