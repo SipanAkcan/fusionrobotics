@@ -12,6 +12,7 @@ function Header(){
     const logoImg = require("../../assets/logo.png");
     const instagram = require("../../assets/instagram.png");
     const linkedin = require("../../assets/linkedin.png");
+    const twitter = require("../../assets/twitter_icon.png");
     const logoSize = 40;
     const logoStyle = {
         color: "#10375c",
@@ -55,7 +56,6 @@ function Header(){
       <Navbar.Collapse></Navbar.Collapse>     
       <Navbar.Collapse></Navbar.Collapse>     
       <Navbar.Collapse></Navbar.Collapse>     
-      <Navbar.Collapse></Navbar.Collapse>          
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav>
           <Nav.Link href="https://www.instagram.com/fusionrobotics7682/?hl=tr"><img style={{
@@ -64,6 +64,9 @@ function Header(){
           <Nav.Link href="https://www.linkedin.com/company/fusion-robotics-7682"><img style={{
             width: '30px'
           }} src={linkedin}></img></Nav.Link>
+          <Nav.Link href="https://twitter.com/FusionRobotics"><img style={{
+            width: '30px'
+          }} src={twitter}></img></Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

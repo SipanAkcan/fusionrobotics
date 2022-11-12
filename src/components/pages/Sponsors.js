@@ -148,6 +148,7 @@ function sponsors(){
 </Card>
 <Card  border="light" style={{
     width:350,
+    height:190,
 }}>
 <Image variant="top" src={demiriz}
                     width={"%100"}
@@ -334,6 +335,7 @@ function sponsors(){
 
 <Card  border="light" style={{
     width:350,
+    height:190,
 }}>
 <Image variant="top" src={merkad}
                     width={"%100"}

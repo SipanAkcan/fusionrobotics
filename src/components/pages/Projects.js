@@ -14,6 +14,7 @@ function projects(){
     const pendik_off_season_image = require("../../assets/pendik_off_season.png");
     const bosphorus_robot_image = require("../../assets/team_photo3.jpg");
     const gameX = require("../../assets/gameX.jpg");
+    const oneideaoneworld = require("../../assets/1idea1world.png");
     
 
     const jumbotronStyles = {
@@ -38,6 +39,20 @@ function projects(){
 
                 <Row style={{ display:'flex', justifyContent:'center'}}>
 
+                    <Card  border="light" style={{
+                              width:350,
+                          }}>
+                      <Image variant="top" src={pendik_off_season_image}
+                                              width={"%100"}
+                                              height={250} />
+                      <Card.Body>
+                        <Card.Title>Pendik - Off Season</Card.Title>
+                         <Card.Text>
+                         We became the champion team together with our alliance teams in FRC 2022 Pendik Off-Season and were entitled to receive the "Winner" award.
+                         </Card.Text>
+                  
+                      </Card.Body>
+                    </Card>
             <Card  border="light" style={{
                 width:350,
             }}>
@@ -54,14 +69,13 @@ function projects(){
       <Card  border="light" style={{
                 width:350,
             }}>
-        <Image variant="top" src={pendik_off_season_image}
+        <Image variant="top" src={oneideaoneworld}
                                 width={"%100"}
                                 height={250} />
         <Card.Body>
-          <Card.Title>Pendik - Off Season</Card.Title>
+          <Card.Title>1 Idea 1 World</Card.Title>
            <Card.Text>
-           We became the champion team together with our alliance teams in FRC 2022 Pendik Off-Season and were entitled to receive the "Winner" award.
-           </Card.Text>
+           As Fusion Robotics, we were invited to the event held at BTM Istanbul, organized by TÜMMİAD. We introduced our team and our robot at the fair. We won a bronze medal for the interest in our robot and the performance we showed. </Card.Text>
     
         </Card.Body>
       </Card>
