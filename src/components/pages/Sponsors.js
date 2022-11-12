@@ -33,7 +33,8 @@ function sponsors(){
     const ozbekcpa = require("../../assets/sponsors/özbekcpa.png");
     const özdisan = require("../../assets/sponsors/özdisan.png");
     const sbk_krom = require("../../assets/sponsors/sbk_krom.png");
-
+    const dogus_kalip = require("../../assets/sponsors/dogus_kalip.png");
+    const veronelli = require("../../assets/sponsors/veronelli.jpeg");
     return(
       <div>
     <Container>
@@ -290,6 +291,36 @@ function sponsors(){
                     height={"%100"} />
 <Card.Body>
 <Card.Title>SBK Krom Metal</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+    </Row>
+
+    <Row>
+
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={veronelli}
+                    width={"%100"}
+                    height={"%100"}  />
+<Card.Body>
+<Card.Title>Eigenmann & Veronelli</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={dogus_kalip}
+                    width={"%100"}
+                    height={"%100"} />
+<Card.Body>
+<Card.Title>Doğuş Kalıp</Card.Title>
 <Card.Text>
 </Card.Text>
 

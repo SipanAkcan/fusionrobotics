@@ -26,6 +26,8 @@ const saykom = require("../../assets/sponsors/saykom.png");
 const ozbekcpa = require("../../assets/sponsors/özbekcpa.png");
 const özdisan = require("../../assets/sponsors/özdisan.png");
 const sbk_krom = require("../../assets/sponsors/sbk_krom.png");
+const dogus_kalip = require("../../assets/sponsors/dogus_kalip.png");
+const veronelli = require("../../assets/sponsors/veronelli.jpeg");
 
 function sponsors(){
     return(
@@ -63,6 +65,8 @@ function sponsors(){
         <img src={özdisan} alt="Slide 4"/>
         <img src={ozbekcpa} alt="Slide 4"/>
         <img src={sbk_krom} alt="Slide 4"/>
+        <img src={dogus_kalip} alt="Slide 4"/>
+        <img src={veronelli} alt="Slide 4"/>
         <img src={rustu_akin} alt="Slide 4"/>
         </Carousel>
   <br></br>
