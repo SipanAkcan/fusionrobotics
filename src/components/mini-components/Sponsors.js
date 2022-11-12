@@ -7,9 +7,9 @@ import Col from "react-bootstrap/Col"
 
 import "../../style.css"
 
-const b_belediyesi = require("../../assets/sponsors/b_belediyesi.png");
-const knowledge_club = require("../../assets/sponsors/knowledge_club.png");
-const rustu_akin = require("../../assets/sponsors/rüştü_akın.png");
+const b_belediyesi = require("../../assets/sponsors/bahcelievler_logo.jpg");
+const knowledge_club = require("../../assets/sponsors/knowledge_club.jpg");
+const rustu_akin = require("../../assets/sponsors/rüstü_akin_vakfi.png");
 const unity = require("../../assets/sponsors/unity.png");
 //const r_kadak = require("../../assets/sponsors/r_kadak.png");
 //const altay_civata = require("../../assets/sponsors/altay_civata.png");

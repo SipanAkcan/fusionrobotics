@@ -7,10 +7,10 @@ import Row from "react-bootstrap/Row"
 import Image from "react-bootstrap/Image"
 import "../../style.css"
 
-const b_belediyesi = require("../../assets/sponsors/b_belediyesi.png");
-
-
 function members(){
+//    const instagram = require("../../assets/instagram.png");
+//    const linkedin = require("../../assets/linkedin.png");
+    
   const jumbotronStyles = {
     backgroundColor: "#10375c",
     color: "#ffffff",
@@ -55,7 +55,7 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Title>Mustafa Mert Tunalı</Card.Title>
                         <Card.Text>Lead Mentor</Card.Text>
                     </Card.Body>
                 </Card>
@@ -65,8 +65,197 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
+                        <Card.Title>Aziz Kılıç</Card.Title>
                         <Card.Text>Lead Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Ahmet Yıldız</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Bayram Kuru</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Umut Tepe</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Ömercan Aydın</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Ali Güvenç</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Burak Akkılıç</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Sahranur Çalış</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Ayşegül Kılınç</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Büşra Yıldız</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Kerem Ali Taş</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Rohat Yeşilyurt</Card.Title>
+                        <Card.Text>Mentor</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    </Col>
+    
+    <Col>
+         <Col>
+            <h1 style={{
+                textAlign: 'center',
+            }}>Alumni</h1>
+        </Col>
+    </Col>
+
+    <Col>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Kaan Arısoy</Card.Title>
+                        <Card.Text>Alumni</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Yağmur Akyüz</Card.Title>
+                        <Card.Text>Alumni</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Baran Aktaş</Card.Title>
+                        <Card.Text>Alumni</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Mertali İpek</Card.Title>
+                        <Card.Text>Alumni</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Selim Basut</Card.Title>
+                        <Card.Text>Alumni</Card.Text>
                     </Card.Body>
                 </Card>
     </Row>
@@ -89,8 +278,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Dağcan Bektaş Duru</Card.Title>
+                        <Card.Text>Mechanic Captain</Card.Text>
                     </Card.Body>
                 </Card>
                 <Card  border="light" style={{
@@ -99,8 +288,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Burak Talha Sümer</Card.Title>
+                        <Card.Text>Software Captain</Card.Text>
                     </Card.Body>
                 </Card>
                 <Card  border="light" style={{
@@ -109,8 +298,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Zeynep Banu Seyrek</Card.Title>
+                        <Card.Text>Public Relations Captain</Card.Text>
                     </Card.Body>
                 </Card>
     </Row>
@@ -134,8 +323,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Sipan Merhas Akcan</Card.Title>
+                        <Card.Text>Software</Card.Text>
                     </Card.Body>
                 </Card>
                 <Card  border="light" style={{
@@ -144,18 +333,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
-                    </Card.Body>
-                </Card>
-                <Card  border="light" style={{
-                    width:270,}}>
-                    <Image variant="top" src={""}
-                            width={"%100"}
-                            height={"%100"}  />
-                    <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Ömer Faruk Yılmaz</Card.Title>
+                        <Card.Text>Software</Card.Text>
                     </Card.Body>
                 </Card>
     </Row>
@@ -178,8 +357,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Yüşa Mervan Gülgör</Card.Title>
+                        <Card.Text>Mechanic</Card.Text>
                     </Card.Body>
                 </Card>
                 <Card  border="light" style={{
@@ -188,18 +367,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
-                    </Card.Body>
-                </Card>
-                <Card  border="light" style={{
-                    width:270,}}>
-                    <Image variant="top" src={""}
-                            width={"%100"}
-                            height={"%100"}  />
-                    <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Şevval Arslantürk</Card.Title>
+                        <Card.Text>Mechanic</Card.Text>
                     </Card.Body>
                 </Card>
     </Row>
@@ -222,8 +391,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Nisanur Gülerce</Card.Title>
+                        <Card.Text>PR</Card.Text>
                     </Card.Body>
                 </Card>
                 <Card  border="light" style={{
@@ -232,8 +401,8 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Rana Gül Fidan</Card.Title>
+                        <Card.Text>PR</Card.Text>
                     </Card.Body>
                 </Card>
                 <Card  border="light" style={{
@@ -242,8 +411,41 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Mustafa Tekin</Card.Title>
-                        <Card.Text>Lead Mentor</Card.Text>
+                        <Card.Title>Sude Güçer</Card.Title>
+                        <Card.Text>PR</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Sümeyra Sare Vural</Card.Title>
+                        <Card.Text>PR</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Sertab Irmak Sarıoğlu</Card.Title>
+                        <Card.Text>PR</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Beyzanur Yılmaz</Card.Title>
+                        <Card.Text>PR</Card.Text>
                     </Card.Body>
                 </Card>
     </Row>
