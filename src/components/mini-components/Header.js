@@ -13,6 +13,7 @@ function Header(){
     const instagram = require("../../assets/instagram.png");
     const linkedin = require("../../assets/linkedin.png");
     const twitter = require("../../assets/twitter_icon.png");
+    const github = require("../../assets/github_icon.png");
     const logoSize = 40;
     const logoStyle = {
         color: "#10375c",
@@ -67,6 +68,9 @@ function Header(){
           <Nav.Link href="https://twitter.com/FusionRobotics"><img style={{
             width: '30px'
           }} src={twitter}></img></Nav.Link>
+          <Nav.Link href="https://github.com/fusionrobotics7682"><img style={{
+            width: '30px'
+          }} src={github}></img></Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

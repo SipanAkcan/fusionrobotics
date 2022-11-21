@@ -48,21 +48,31 @@ function sponsors(){
 
       <Col>
                     <Col>
+                    <Col>
+         <Col>
+            <h1 style={{
+                textAlign: 'center',
+            }}>Electron</h1>
+            <p className="text-center">
+            Our Electron Sponsors are very important to us. Without them, we cannot determine our layers.
+            </p>
+        </Col>
+    </Col>
                     <Row>
-
 <Card  border="light" style={{
     width:350,
 }}>
-<Image variant="top" src={b_belediyesi}
+<Image variant="top" src={rustu_akin}
                     width={"%100"}
-                    height={"%100"}  />
+                    height={"%150"} />
 <Card.Body>
-<Card.Title>Bahçelievler Belediyesi</Card.Title>
+<Card.Title>Rüştü Akın Vakfı</Card.Title>
 <Card.Text>
 </Card.Text>
 
 </Card.Body>
 </Card>
+
 <Card  border="light" style={{
     width:350,
 }}>
@@ -90,20 +100,17 @@ function sponsors(){
 </Card.Body>
 </Card>
     </Row>
+    <Col>
+         <Col>
+            <h1 style={{
+                textAlign: 'center',
+            }}>Proton</h1>
+            <p className="text-center">
+            Our Proton Sponsors represent our positives. Thanks to them, we are always positive and happy.
+            </p>
+        </Col>
+    </Col>
     <Row>
-    <Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={rustu_akin}
-                    width={"%100"}
-                    height={"%150"} />
-<Card.Body>
-<Card.Title>Rüştü Akın Vakfı</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
 <Card  border="light" style={{
     width:350,
 }}>
@@ -130,7 +137,77 @@ function sponsors(){
 
 </Card.Body>
 </Card>
+
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={asya_bayrak}
+                    width={"%100"}
+                    height={"%100"}  />
+<Card.Body>
+<Card.Title>Asya Bayrak</Card.Title>
+<Card.Text>
+</Card.Text>
+
+
+
+</Card.Body>
+</Card>
+    </Row><Row>
+
+    <Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={saykom}
+                    width={"%100"}
+                    height={"%100"}  />
+<Card.Body>
+<Card.Title>Saykom</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={türksa}
+                    width={"%100"}
+                    height={"%100"} />
+<Card.Body>
+<Card.Title>Türksa Kayış</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+
+<Card  border="light" style={{
+    width:350,
+    height:190,
+}}>
+<Image variant="top" src={merkad}
+                    width={"%100"}
+                    height={"%100"}  />
+<Card.Body>
+<Card.Title>Merkad Makina</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
     </Row>
+    <Col>
+         <Col>
+            <h1 style={{
+                textAlign: 'center',
+            }}>Neutron</h1>
+            <p className="text-center">
+            We are very lucky to have our Neutron Sponsors by our side at the most important moments.
+            </p>
+        </Col>
+    </Col>
     <Row>
 
 <Card  border="light" style={{
@@ -146,33 +223,35 @@ function sponsors(){
 
 </Card.Body>
 </Card>
-<Card  border="light" style={{
-    width:350,
-    height:190,
-}}>
-<Image variant="top" src={demiriz}
-                    width={"%100"}
-                    height={"%100"} />
-<Card.Body>
-<Card.Title>Demiriz</Card.Title>
-<Card.Text>
-</Card.Text>
 
-</Card.Body>
-</Card>
 <Card  border="light" style={{
     width:350,
 }}>
-<Image variant="top" src={asya_bayrak}
+<Image variant="top" src={veronelli}
                     width={"%100"}
                     height={"%100"}  />
 <Card.Body>
-<Card.Title>Asya Bayrak</Card.Title>
+<Card.Title>Eigenmann & Veronelli</Card.Title>
 <Card.Text>
 </Card.Text>
 
 </Card.Body>
 </Card>
+
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={burger_yiyelim}
+                    width={"%100"}
+                    height={"%100"}  />
+<Card.Body>
+<Card.Title>Burger Yiyelim</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+
     </Row>
     <Row>
 
@@ -217,20 +296,6 @@ function sponsors(){
 </Card>
     </Row>
     <Row>
-
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={özdisan}
-                    width={"%100"}
-                    height={"%100"}  />
-<Card.Body>
-<Card.Title>Özdisan</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
 <Card  border="light" style={{
     width:350,
 }}>
@@ -257,22 +322,6 @@ function sponsors(){
 
 </Card.Body>
 </Card>
-    </Row>
-    <Row>
-
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={saykom}
-                    width={"%100"}
-                    height={"%100"}  />
-<Card.Body>
-<Card.Title>Saykom</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
 <Card  border="light" style={{
     width:350,
 }}>
@@ -286,6 +335,9 @@ function sponsors(){
 
 </Card.Body>
 </Card>
+    </Row>
+    <Row>
+
 <Card  border="light" style={{
     width:350,
 }}>
@@ -299,64 +351,16 @@ function sponsors(){
 
 </Card.Body>
 </Card>
-    </Row>
-
-    <Row>
-
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={veronelli}
-                    width={"%100"}
-                    height={"%100"}  />
-<Card.Body>
-<Card.Title>Eigenmann & Veronelli</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
-
-
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={burger_yiyelim}
-                    width={"%100"}
-                    height={"%100"}  />
-<Card.Body>
-<Card.Title>Burger Yiyelim</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
-
 
 <Card  border="light" style={{
     width:350,
     height:190,
 }}>
-<Image variant="top" src={merkad}
+<Image variant="top" src={demiriz}
                     width={"%100"}
-                    height={"%100"}  />
+                    height={"%100"} />
 <Card.Body>
-<Card.Title>Merkad Makina</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
-    </Row><Row>
-
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={türksa}
-                    width={"%100"}
-                    height={"%100"}  />
-<Card.Body>
-<Card.Title>Türksa Kayış</Card.Title>
+<Card.Title>Demiriz</Card.Title>
 <Card.Text>
 </Card.Text>
 

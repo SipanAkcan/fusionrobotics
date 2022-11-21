@@ -51,7 +51,6 @@ function sponsors(){
         slidesPerPage={3}
         className="sponsorCarousel"
         >
-        <img src={b_belediyesi} alt="Slide 1"/>
         <img src={knowledge_club} alt="Slide 2"/>
         <img src={unity} alt="Slide 3"/>
         <img src={altay_civata} alt="Slide 4"/>
