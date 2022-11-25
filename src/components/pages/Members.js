@@ -72,6 +72,16 @@ function members(){
                         <Card.Text>Student at MEF Universty - Software</Card.Text>
                     </Card.Body>
                 </Card>
+                 <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Abdul Aziz Kılıç</Card.Title>
+                        <Card.Text>Mechanic</Card.Text>
+                    </Card.Body>
+                </Card>
     </Row>
     <Row style={{ display:'flex', justifyContent:'center' }}
 >
