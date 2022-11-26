@@ -197,6 +197,35 @@ function sponsors(){
 </Card.Body>
 </Card>
     </Row>
+    <Row>
+
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={konzek}
+                    width={"%100"}
+                    height={"%100"}  />
+<Card.Body>
+<Card.Title>Konzek</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={burger_yiyelim}
+                    width={"%100"}
+                    height={"%100"} />
+<Card.Body>
+<Card.Title>Burger Yiyelim</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+    </Row>
     <Col>
          <Col>
             <h1 style={{
@@ -236,15 +265,14 @@ function sponsors(){
 
 </Card.Body>
 </Card>
-
 <Card  border="light" style={{
     width:350,
 }}>
-<Image variant="top" src={burger_yiyelim}
+<Image variant="top" src={demiriz}
                     width={"%100"}
-                    height={"%100"}  />
+                    height={"%100"} />
 <Card.Body>
-<Card.Title>Burger Yiyelim</Card.Title>
+<Card.Title>Demiriz</Card.Title>
 <Card.Text>
 </Card.Text>
 
@@ -253,20 +281,6 @@ function sponsors(){
 
     </Row>
     <Row>
-
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={konzek}
-                    width={"%100"}
-                    height={"%100"}  />
-<Card.Body>
-<Card.Title>Konzek</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
 <Card  border="light" style={{
     width:350,
 }}>
@@ -288,6 +302,20 @@ function sponsors(){
                     height={"%100"}  />
 <Card.Body>
 <Card.Title>Star Alüminyum</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={sbk_krom}
+                    width={"%100"}
+                    height={"%100"} />
+<Card.Body>
+<Card.Title>SBK Krom Metal</Card.Title>
 <Card.Text>
 </Card.Text>
 
@@ -329,35 +357,6 @@ function sponsors(){
                     height={"%100"} />
 <Card.Body>
 <Card.Title>Özbekcpa</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
-    </Row>
-    <Row>
-
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={sbk_krom}
-                    width={"%100"}
-                    height={"%100"} />
-<Card.Body>
-<Card.Title>SBK Krom Metal</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={demiriz}
-                    width={"%100"}
-                    height={"%100"} />
-<Card.Body>
-<Card.Title>Demiriz</Card.Title>
 <Card.Text>
 </Card.Text>
 
