@@ -22,7 +22,7 @@ function sponsors(){
     const r_kadak = require("../../assets/sponsors/r_kadak.jpeg");
     const altay_civata = require("../../assets/sponsors/altay_civata.jpeg");
     const eskipolat = require("../../assets/sponsors/eskipolat.jpeg");
-    const demiriz = require("../../assets/sponsors/demiriz.png");
+    const demiriz = require("../../assets/sponsors/demiriz.JPG");
     const asya_bayrak = require("../../assets/sponsors/asya_bayrak.jpeg");
     const konzek = require("../../assets/sponsors/konzek.jpeg");
     const micron_tekstil = require("../../assets/sponsors/micron_tekstil.jpeg");
@@ -36,7 +36,7 @@ function sponsors(){
     const dogus_kalip = require("../../assets/sponsors/dogus_kalip.jpeg");
     const veronelli = require("../../assets/sponsors/veronelli.jpeg");
     const burger_yiyelim = require("../../assets/sponsors/burger_yiyelim.jpeg");
-    const merkad = require("../../assets/sponsors/merkad.png");
+    const merkad = require("../../assets/sponsors/merkad.jpeg");
     const türksa = require("../../assets/sponsors/türksa_kayış.jpeg");
 
     return(
@@ -185,11 +185,10 @@ function sponsors(){
 
 <Card  border="light" style={{
     width:350,
-    height:190,
 }}>
 <Image variant="top" src={merkad}
                     width={"%100"}
-                    height={"%100"}  />
+                    height={"%100"} />
 <Card.Body>
 <Card.Title>Merkad Makina</Card.Title>
 <Card.Text>
@@ -351,10 +350,8 @@ function sponsors(){
 
 </Card.Body>
 </Card>
-
 <Card  border="light" style={{
     width:350,
-    height:190,
 }}>
 <Image variant="top" src={demiriz}
                     width={"%100"}
