@@ -58,7 +58,7 @@ function sponsors(){
             </p>
         </Col>
     </Col>
-                    <Row>
+    <Row>
 <Card  border="light" style={{
     width:350,
 }}>
@@ -94,6 +94,20 @@ function sponsors(){
                     height={"%100"}  />
 <Card.Body>
 <Card.Title>Unity Grup Teknoloji</Card.Title>
+<Card.Text>
+</Card.Text>
+
+</Card.Body>
+</Card>
+    </Row><Row>
+<Card  border="light" style={{
+    width:350,
+}}>
+<Image variant="top" src={konzek}
+                    width={"%100"}
+                    height={"%150"} />
+<Card.Body>
+<Card.Title>Konzek</Card.Title>
 <Card.Text>
 </Card.Text>
 
@@ -198,20 +212,6 @@ function sponsors(){
 </Card>
     </Row>
     <Row>
-
-<Card  border="light" style={{
-    width:350,
-}}>
-<Image variant="top" src={konzek}
-                    width={"%100"}
-                    height={"%100"}  />
-<Card.Body>
-<Card.Title>Konzek</Card.Title>
-<Card.Text>
-</Card.Text>
-
-</Card.Body>
-</Card>
 <Card  border="light" style={{
     width:350,
 }}>
