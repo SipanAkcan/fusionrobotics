@@ -178,7 +178,7 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Yiğit Nazif Çumak</Card.Title>
+                        <Card.Title>Yiğit Nazif Çomak</Card.Title>
                         <Card.Text>Mentor - Mechanic</Card.Text>
                     </Card.Body>
                 </Card>
