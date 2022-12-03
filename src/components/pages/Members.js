@@ -10,6 +10,15 @@ import "../../style.css"
 function members(){
 //    const instagram = require("../../assets/instagram.png");
 //    const linkedin = require("../../assets/linkedin.png");
+const sipan_merhas = require("../../assets/fusion-member-photo/sipan_merhas.JPG");
+const mertali_ipek = require("../../assets/fusion-member-photo/mertali_ipek.JPG");
+const nisanur_gülerce = require("../../assets/fusion-member-photo/nisanur_gülerce.JPG");
+const ömercan_aydın = require("../../assets/fusion-member-photo/ömercan_aydın.JPG");
+const rana_fidan = require("../../assets/fusion-member-photo/rana_fidan.JPG");
+const sude_güçer = require("../../assets/fusion-member-photo/sude_güçer.JPG");
+const şevval_arslantürk = require("../../assets/fusion-member-photo/şevval_arslantürk.JPG");
+const yağmur_akyüz = require("../../assets/fusion-member-photo/yağmur_akyüz.JPG");
+const zeynep_banu = require("../../assets/fusion-member-photo/zeynep_banu.JPG");
     
   const jumbotronStyles = {
     backgroundColor: "#10375c",
@@ -110,7 +119,7 @@ function members(){
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={ömercan_aydın}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -124,7 +133,7 @@ function members(){
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
-                        <Card.Title>Ali Güvenç</Card.Title>
+                        <Card.Title>Nazif Yiğit Çomak</Card.Title>
                         <Card.Text>Mentor - Mechanic</Card.Text>
                     </Card.Body>
                 </Card>
@@ -171,18 +180,6 @@ function members(){
                     </Card.Body>
                 </Card>
     </Row>
-    <Row style={{ display:'flex', justifyContent:'center' }}
->               <Card  border="light" style={{
-                    width:270,}}>
-                    <Image variant="top" src={""}
-                            width={"%100"}
-                            height={"%100"}  />
-                    <Card.Body>
-                        <Card.Title>Nazif Yiğit Çomak</Card.Title>
-                        <Card.Text>Mentor - Mechanic</Card.Text>
-                    </Card.Body>
-                </Card>
-    </Row>
     </Col>
     
     <Col>
@@ -203,12 +200,35 @@ function members(){
                             height={"%100"}  />
                     <Card.Body>
                         <Card.Title>Kaan Arısoy</Card.Title>
-                        <Card.Text>Alumni</Card.Text>
+                        <Card.Text>Old Captain</Card.Text>
                     </Card.Body>
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
                     <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Ali Güvenç</Card.Title>
+                        <Card.Text>Old Captain</Card.Text>
+                    </Card.Body>
+                </Card>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={""}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Tuba Özen</Card.Title>
+                        <Card.Text>Old Captain</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
+                <Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={yağmur_akyüz}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -226,12 +246,10 @@ function members(){
                         <Card.Text>Alumni</Card.Text>
                     </Card.Body>
                 </Card>
-    </Row>
-    <Row style={{ display:'flex', justifyContent:'center' }}
->
+
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={mertali_ipek}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -239,6 +257,9 @@ function members(){
                         <Card.Text>Alumni</Card.Text>
                     </Card.Body>
                 </Card>
+    </Row>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
                 <Card  border="light" style={{
                     width:270,}}>
                     <Image variant="top" src={""}
@@ -285,7 +306,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={zeynep_banu}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -310,7 +331,7 @@ function members(){
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={sipan_merhas}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -354,7 +375,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={şevval_arslantürk}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -378,7 +399,7 @@ function members(){
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={nisanur_gülerce}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -388,7 +409,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={rana_fidan}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -398,7 +419,7 @@ function members(){
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={sude_güçer}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
