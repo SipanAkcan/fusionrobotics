@@ -12,13 +12,17 @@ function members(){
 //    const linkedin = require("../../assets/linkedin.png");
 const sipan_merhas = require("../../assets/fusion-member-photo/sipan_merhas.JPG");
 const mertali_ipek = require("../../assets/fusion-member-photo/mertali_ipek.JPG");
-const nisanur_gülerce = require("../../assets/fusion-member-photo/nisanur_gülerce.JPG");
-const ömercan_aydın = require("../../assets/fusion-member-photo/ömercan_aydın.JPG");
+const nisanur_gülerce = require("../../assets/fusion-member-photo/nisanur_gülerce.JPG");
+const ömercan_aydın = require("../../assets/fusion-member-photo/ömercan_aydın.JPG");
 const rana_fidan = require("../../assets/fusion-member-photo/rana_fidan.JPG");
 const sude_güçer = require("../../assets/fusion-member-photo/sude_güçer.JPG");
 const şevval_arslantürk = require("../../assets/fusion-member-photo/şevval_arslantürk.JPG");
 const yağmur_akyüz = require("../../assets/fusion-member-photo/yağmur_akyüz.JPG");
 const zeynep_banu = require("../../assets/fusion-member-photo/zeynep_banu.JPG");
+const dağcan_duru = require("../../assets/fusion-member-photo/dağcan_duru.JPG");
+const aziz_kılıç = require("../../assets/fusion-member-photo/aziz_kılıç.jpg");
+const umut_tepe = require("../../assets/fusion-member-photo/umut_tepe.jpeg");
+const bayram_kuru = require("../../assets/fusion-member-photo/bayram_kuru.png");
     
   const jumbotronStyles = {
     backgroundColor: "#10375c",
@@ -83,7 +87,7 @@ const zeynep_banu = require("../../assets/fusion-member-photo/zeynep_banu.JPG");
                 </Card>
                  <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={aziz_kılıç}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -96,7 +100,7 @@ const zeynep_banu = require("../../assets/fusion-member-photo/zeynep_banu.JPG");
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={bayram_kuru}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -106,7 +110,7 @@ const zeynep_banu = require("../../assets/fusion-member-photo/zeynep_banu.JPG");
                 </Card>
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={umut_tepe}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -286,7 +290,7 @@ const zeynep_banu = require("../../assets/fusion-member-photo/zeynep_banu.JPG");
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={dağcan_duru}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
