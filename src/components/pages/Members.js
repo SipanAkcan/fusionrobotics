@@ -12,6 +12,8 @@ function members(){
 //    const linkedin = require("../../assets/linkedin.png");
 const sipan_merhas = require("../../assets/fusion-member-photo/sipan_merhas.JPG");
 const mertali_ipek = require("../../assets/fusion-member-photo/mertali_ipek.JPG");
+const nisanur_gülerce = require("../../assets/fusion-member-photo/nisanur_gülerce.JPG");
+const ömercan_aydın = require("../../assets/fusion-member-photo/ömercan_aydıns.JPG");
 const rana_fidan = require("../../assets/fusion-member-photo/rana_fidan.JPG");
 const sude_güçer = require("../../assets/fusion-member-photo/sude_güçer.JPG");
 const şevval_arslantürk = require("../../assets/fusion-member-photo/şevval_arslantürk.JPG");
@@ -121,7 +123,7 @@ const bayram_kuru = require("../../assets/fusion-member-photo/bayram_kuru.png");
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={ömercan_aydın}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
@@ -401,7 +403,7 @@ const bayram_kuru = require("../../assets/fusion-member-photo/bayram_kuru.png");
 >
                 <Card  border="light" style={{
                     width:270,}}>
-                    <Image variant="top" src={""}
+                    <Image variant="top" src={nisanur_gülerce}
                             width={"%100"}
                             height={"%100"}  />
                     <Card.Body>
