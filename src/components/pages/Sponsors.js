@@ -66,10 +66,11 @@ function sponsors(){
                     width={"%100"}
                     height={"%150"} />
 <Card.Body>
-<Card.Title>Rüştü Akın Vakfı</Card.Title>
+<Card.Title><a href="http://www.rav.org.tr/" style={{
+    color: "white",
+}}>Rüştü Akın Vakfı</a></Card.Title>
 <Card.Text>
 </Card.Text>
-
 </Card.Body>
 </Card>
 
@@ -80,7 +81,9 @@ function sponsors(){
                     width={"%100"}
                     height={"%100"} />
 <Card.Body>
-<Card.Title>Knowledge Club</Card.Title>
+<Card.Title><a href="https://knowledgeclub.netdevopsakademi.net/" style={{
+    color: "white",
+}}>Knowledge Club</a></Card.Title>
 <Card.Text>
 </Card.Text>
 
@@ -93,7 +96,9 @@ function sponsors(){
                     width={"%100"}
                     height={"%100"}  />
 <Card.Body>
-<Card.Title>Unity Grup Teknoloji</Card.Title>
+<Card.Title><a href="https://www.unityotomasyon.com.tr/" style={{
+    color: "white",
+}}>Unity Grup Teknoloji</a></Card.Title>
 <Card.Text>
 </Card.Text>
 
@@ -107,10 +112,11 @@ function sponsors(){
                     width={"%100"}
                     height={"%150"} />
 <Card.Body>
-<Card.Title>Konzek</Card.Title>
+<Card.Title><a href="https://www.konzek.com/?gclid=Cj0KCQiAqOucBhDrARIsAPCQL1ZDtEVMqzijLxnydn5HbtHUi28u9sCDoF63tWomjZ27oySU2B4gV9oaAnIJEALw_wcB" style={{
+    color: "white",
+}}>Konzek</a></Card.Title>
 <Card.Text>
 </Card.Text>
-
 </Card.Body>
 </Card>
     </Row>
