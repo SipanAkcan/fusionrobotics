@@ -288,6 +288,22 @@ const bayram_kuru = require("../../assets/fusion-member-photo/bayram_kuru.png");
     <Col>
     <Row style={{ display:'flex', justifyContent:'center' }}
 >
+<Card  border="light" style={{
+                    width:270,}}>
+                    <Image variant="top" src={sipan_merhas}
+                            width={"%100"}
+                            height={"%100"}  />
+                    <Card.Body>
+                        <Card.Title>Sipan Merhas Akcan</Card.Title>
+                        <Card.Text>Captain</Card.Text>
+                    </Card.Body>
+                </Card>
+    </Row>
+    </Col>
+
+    <Col>
+    <Row style={{ display:'flex', justifyContent:'center' }}
+>
                 <Card  border="light" style={{
                     width:270,}}>
                     <Image variant="top" src={dağcan_duru}
@@ -333,16 +349,7 @@ const bayram_kuru = require("../../assets/fusion-member-photo/bayram_kuru.png");
     <Col>
     <Row style={{ display:'flex', justifyContent:'center' }}
 >
-                <Card  border="light" style={{
-                    width:270,}}>
-                    <Image variant="top" src={sipan_merhas}
-                            width={"%100"}
-                            height={"%100"}  />
-                    <Card.Body>
-                        <Card.Title>Sipan Merhas Akcan</Card.Title>
-                        <Card.Text>Software</Card.Text>
-                    </Card.Body>
-                </Card>
+
                 <Card  border="light" style={{
                     width:270,}}>
                     <Image variant="top" src={""}
