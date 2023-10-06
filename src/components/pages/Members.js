@@ -295,7 +295,7 @@ const bayram_kuru = require("../../assets/fusion-member-photo/bayram_kuru.png");
                             height={"%100"}  />
                     <Card.Body>
                         <Card.Title>Sipan Merhas Akcan</Card.Title>
-                        <Card.Text>Captain</Card.Text>
+                        <Card.Text>Mentor</Card.Text>
                     </Card.Body>
                 </Card>
     </Row>
@@ -391,7 +391,7 @@ const bayram_kuru = require("../../assets/fusion-member-photo/bayram_kuru.png");
                             height={"%100"}  />
                     <Card.Body>
                         <Card.Title>Şevval Arslantürk</Card.Title>
-                        <Card.Text>Mechanic</Card.Text>
+                        <Card.Text>Captain</Card.Text>
                     </Card.Body>
                 </Card>
     </Row>
